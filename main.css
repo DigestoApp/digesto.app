@@ -210,3 +210,7 @@ li {
 main a:hover {
     text-decoration: underline;
 }
+
+a.left {
+    text-align: left !important;
+}
