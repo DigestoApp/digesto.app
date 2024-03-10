@@ -195,12 +195,13 @@ main a:not(.button) {
 }
 
 main div.images img {
-    width: calc(23% - 4px);
+    width: calc(48% - 4px);
     margin: 1%;
     display: inline-block;
     border: 2px solid black;
     border-radius: 15px;
-    margin-bottom: 30px
+    margin-bottom: 30px;
+    overflow: scroll;
 }
 
 li {
